@@ -1,6 +1,6 @@
 {
   "name": "a1o2a3-cli-gaming-guessing ",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "this is cli number guesuiing game",
   "main": "index.js",
   "type": "module",
