@@ -4,6 +4,7 @@
   "description": "this is cli number guesuiing game",
   "main": "index.js",
   "type": "module",
+  "bin": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
